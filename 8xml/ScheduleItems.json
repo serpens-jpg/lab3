@@ -1,0 +1,82 @@
+[
+      {
+        "Id": 1,
+        "ClassName": "Class A",
+        "WorkingSpaceCapacity": 20,
+        "User": "John Doe",
+        "Teacher": "Jane Smith",
+        "FreeAccessTime": "2020-09-01T08:00:00"
+      },
+      {
+        "Id": 2,
+        "ClassName": "Class B",
+        "WorkingSpaceCapacity": 30,
+        "User": "Michael Johnson",
+        "Teacher": "Sarah Davis",
+        "FreeAccessTime": "2020-09-02T09:15:00"
+      },
+      {
+        "Id": 3,
+        "ClassName": "Class C",
+        "WorkingSpaceCapacity": 25,
+        "User": "Emily Thompson",
+        "Teacher": "Aiden Anderson",
+        "FreeAccessTime": "2020-09-03T10:30:00"
+      },
+      {
+        "Id": 4,
+        "ClassName": "Class C",
+        "WorkingSpaceCapacity": 15,
+        "User": "Amy Anderson",
+        "Teacher": "David Garcia",
+        "FreeAccessTime": "2020-09-04T11:45:00"
+      },
+      {
+        "Id": 5,
+        "ClassName": "Class C",
+        "WorkingSpaceCapacity": 18,
+        "User": "James Brown",
+        "Teacher": "Laura Wilson",
+        "FreeAccessTime": "2020-09-05T13:00:00"
+      },
+      {
+        "Id": 6,
+        "ClassName": "Class A",
+        "WorkingSpaceCapacity": 22,
+        "User": "Ava Williams",
+        "Teacher": "Aiden Anderson",
+        "FreeAccessTime": "2020-09-06T14:15:00"
+      },
+      {
+        "Id": 7,
+        "ClassName": "Class B",
+        "WorkingSpaceCapacity": 27,
+        "User": "Noah Lee",
+        "Teacher": "Olivia Martinez",
+        "FreeAccessTime": "2020-09-07T15:30:00"
+      },
+      {
+        "Id": 8,
+        "ClassName": "Class B",
+        "WorkingSpaceCapacity": 24,
+        "User": "Ava Williams",
+        "Teacher": "Aiden Anderson",
+        "FreeAccessTime": "2020-09-08T16:45:00"
+      },
+      {
+        "Id": 9,
+        "ClassName": "Class A",
+        "WorkingSpaceCapacity": 16,
+        "User": "Liam Harris",
+        "Teacher": "Emma Thomas",
+        "FreeAccessTime": "2020-09-09T17:45:00"
+      },
+      {
+        "Id": 10,
+        "ClassName": "Class C",
+        "WorkingSpaceCapacity": 21,
+        "User": "Mia Garcia",
+        "Teacher": "Aiden Anderson",
+        "FreeAccessTime": "2020-09-10T18:00:00"
+      }
+    ]

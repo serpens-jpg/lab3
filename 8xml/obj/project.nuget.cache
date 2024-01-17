@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbogWyLKOQNoGgaoZ7l6fGKohR7vr3lKaQkDr0TDkPJ9qEVeUZbQzq0qP68u1JsdB8EZe5qJ1c3OXxnSX9Lo0g==",
+  "success": true,
+  "projectFilePath": "C:\\Anything\\Code\\Python\\Work\\student\\lab3\\8xml\\8xml\\8xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ver\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
